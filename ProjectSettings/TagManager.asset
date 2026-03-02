@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Enemy
+  - enemy
+  - target
   layers:
   - Default
   - TransparentFX
@@ -11,11 +14,11 @@ TagManager:
   - Ground
   - Water
   - UI
-  - Environment
+  - Enemy
+  - Shield
   - Player
-  - Suimono_Water
-  - Suimono_Depth
-  - Suimono_Screen
+  - EnemyHurtbox
+  - player
   - 
   - 
   - 
